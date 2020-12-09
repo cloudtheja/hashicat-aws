@@ -4,6 +4,5 @@ module "s3-bucket" {
   
  # insert required variables here
   bucket_prefix =  "prefix"
-  request_payer = "gaurav"
-
+  
 }
